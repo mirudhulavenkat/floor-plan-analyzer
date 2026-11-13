@@ -222,4 +222,4 @@ The Streamlit interface provides an interactive platform to visualize floor plan
 
 Although the current implementation depends on segmentation masks, it establishes a foundation for further development of intelligent architectural floor plan analysis systems.
 
-Future improvements will focus on direct room detection,
+
