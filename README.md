@@ -26,11 +26,13 @@ Enable users to ask questions about detected rooms.
 Loads original floor plan images and corresponding segmentation masks.
 Displays image dimensions and dataset information.
 Checks the availability of input images.
+
 3.2 Mask Analysis
 
 Analyzes segmentation masks using OpenCV.
 Identifies dominant colours in the masks.
 Generates mask previews for visualization.
+
 3.3 Room Detection and Extraction
 
 Identifies room regions based on colour segmentation.
@@ -38,11 +40,13 @@ Uses connected component analysis to identify separate regions.
 Filters small regions based on area.
 Calculates room area, coordinates, width, and height.
 Generates visualizations with detected room boundaries.
+
 3.4 Database Management
 
 Uses SQLite to store extracted room information.
 Stores room IDs, areas, positions, widths, and heights.
 Retrieves room information for analysis and visualization.
+
 3.5 Interactive Web Interface
 
 Developed using Streamlit.
@@ -50,6 +54,7 @@ Displays original floor plans and segmentation masks.
 Shows detected room regions and overlays.
 Displays room statistics and information.
 Provides an interactive question-answering section.
+
 3.6 Question Answering System
 
 Allows users to ask questions about the analyzed floor plan.
