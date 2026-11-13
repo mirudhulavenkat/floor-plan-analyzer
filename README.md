@@ -18,6 +18,7 @@ Calculate the area and position of detected regions.
 Store room information in an SQLite database.
 Provide an interactive interface for floor plan analysis.
 Enable users to ask questions about detected rooms.
+
 3. Features
 
 3.1 Dataset Inspection
