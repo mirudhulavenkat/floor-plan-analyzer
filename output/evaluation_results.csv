@@ -1,0 +1,21 @@
+Question Number,Question,Expected Answer,Actual Answer,Status
+1,How many rooms are detected?,12,12,PASS
+2,How many regions are there?,12,12,PASS
+3,Count rooms,12,12,PASS
+4,Count detected regions,12,12,PASS
+5,Which is the largest room?,"(12, 218818)","(12, 218818)",PASS
+6,Show the largest room,"(12, 218818)","(12, 218818)",PASS
+7,Tell me the largest region,"(12, 218818)","(12, 218818)",PASS
+8,What is the largest area?,"(12, 218818)","(12, 218818)",PASS
+9,Which is the smallest room?,"(9, 10139)","(9, 10139)",PASS
+10,Show the smallest room,"(9, 10139)","(9, 10139)",PASS
+11,Tell me the smallest region,"(9, 10139)","(9, 10139)",PASS
+12,What is the smallest area?,"(9, 10139)","(9, 10139)",PASS
+13,What is the total area?,862306,862306,PASS
+14,Calculate total area,862306,862306,PASS
+15,Show total area,862306,862306,PASS
+16,Give total area,862306,862306,PASS
+17,Show all rooms,12,12,PASS
+18,Show all regions,12,12,PASS
+19,List all rooms,12,12,PASS
+20,Display all detected regions,12,12,PASS
