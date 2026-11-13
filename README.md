@@ -76,7 +76,9 @@ The question-answering system retrieves information using SQLite database querie
 
 5. Project Folder Structure
 
-text
+## Project Structure
+
+```text
 FLOOR-PLAN/
 │
 ├── dataset/
@@ -106,6 +108,7 @@ FLOOR-PLAN/
 ├── qa.py
 ├── app.py
 └── README.md
+```
 6. Installation and Setup
 
 Step 1: Clone the Repository
