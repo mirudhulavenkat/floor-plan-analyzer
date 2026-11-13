@@ -125,8 +125,8 @@ Step 3: Install Required Libraries
 
 bash
 pip3 install opencv-python numpy streamlit pandas
-7. How to Run the Project
 
+7. How to Run the Project
 Execute the following scripts in the appropriate order.
 
 Step 1: Check the Dataset
@@ -140,12 +140,10 @@ bash
 python3 mask_analysis.py
 
 Step 3: Generate Mask Preview
-
 bash
 python3 view_mask.py
 
 Step 4: Extract Room Regions
-
 bash
 python3 room_extraction.py
 
