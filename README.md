@@ -65,13 +65,15 @@ The question-answering system retrieves information using SQLite database querie
 
 4. Technologies Used
 
-Technology	Purpose
-Python	Main programming language
-OpenCV	Image processing and room detection
-NumPy	Numerical operations and array processing
-SQLite	Database management
-Streamlit	Interactive web interface
-Pandas	Tabular data presentation
+| Technology | Purpose |
+|---|---|
+| Python | Main programming language |
+| OpenCV | Image processing and room detection |
+| NumPy | Numerical operations and array processing |
+| SQLite | Database management |
+| Streamlit | Interactive web interface |
+| Pandas | Tabular data presentation |
+
 5. Project Folder Structure
 
 text
