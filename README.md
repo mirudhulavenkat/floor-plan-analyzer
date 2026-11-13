@@ -115,10 +115,12 @@ Step 1: Clone the Repository
 
 bash
 git clone YOUR_GITHUB_REPOSITORY_URL
+
 Step 2: Navigate to the Project Folder
 
 bash
 cd floor-plan
+
 Step 3: Install Required Libraries
 
 bash
@@ -131,30 +133,36 @@ Step 1: Check the Dataset
 
 bash
 python3 check_dataset.py
+
 Step 2: Analyze the Segmentation Mask
 
 bash
 python3 mask_analysis.py
+
 Step 3: Generate Mask Preview
 
 bash
 python3 view_mask.py
+
 Step 4: Extract Room Regions
 
 bash
 python3 room_extraction.py
+
 Step 5: Create the Database
 
 bash
 python3 database.py
+
 Step 6: Run the Question Answering System (Optional)
 
 bash
 python3 qa.py
-Step 7: Launch the Web Application
 
+Step 7: Launch the Web Application
 bash
 python3 -m streamlit run app.py
+
 The application will open in your browser.
 
 8. Question Answering Capabilities
